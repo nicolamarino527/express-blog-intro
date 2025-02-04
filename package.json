@@ -1,0 +1,31 @@
+{
+  "name": "express-blog-intro",
+  "version": "1.0.0",
+  "description": "blog personale",
+  "main": "app.js",
+  "scripts": {
+    "test": "test",
+    "start": "node app.js",
+    "watch": "node --watch app.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolamarino527/express-blog-intro.git"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "module",
+    "blog"
+  ],
+  "author": "nicola marino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolamarino527/express-blog-intro/issues"
+  },
+  "homepage": "https://github.com/nicolamarino527/express-blog-intro#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
